@@ -1,0 +1,12 @@
+
+#include<stdio.h> // 19 library 
+main() // special function
+{
+	 int a=10,b=12,sum; // int--> datatype ,a,b,sum-->variable
+	 //printf("enter two numbers: ");// printf()--->output statement
+	 //scanf("%d%d",&a,&b); // scanf--input statement, %d,%i-format specifier
+	 // &a -->address
+	 sum=a+b;
+	 printf("total is : %d",sum);
+	 
+}/*.....*/ 
